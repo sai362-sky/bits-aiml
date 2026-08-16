@@ -295,7 +295,7 @@ The script uses `random_state=42` throughout for reproducibility.
 
 ## 16. Repository and Application Links
 
-- **GitHub repository:** 
+- **GitHub repository:** https://github.com/sai362-sky/bits-aiml/tree/master
 - **Live Streamlit app:** http://localhost:8501/
 
 ---
