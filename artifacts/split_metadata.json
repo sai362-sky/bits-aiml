@@ -1,0 +1,12 @@
+{
+  "total_rows": 7043,
+  "train_rows": 5634,
+  "test_rows": 1409,
+  "test_size_fraction": 0.2,
+  "random_state": 42,
+  "stratified": true,
+  "train_churn_count": 1495,
+  "test_churn_count": 374,
+  "train_no_churn_count": 4139,
+  "test_no_churn_count": 1035
+}

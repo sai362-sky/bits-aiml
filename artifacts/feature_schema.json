@@ -1,0 +1,46 @@
+{
+  "required_columns": [
+    "SeniorCitizen",
+    "tenure",
+    "MonthlyCharges",
+    "TotalCharges",
+    "gender",
+    "Partner",
+    "Dependents",
+    "PhoneService",
+    "MultipleLines",
+    "InternetService",
+    "OnlineSecurity",
+    "OnlineBackup",
+    "DeviceProtection",
+    "TechSupport",
+    "StreamingTV",
+    "StreamingMovies",
+    "Contract",
+    "PaperlessBilling",
+    "PaymentMethod"
+  ],
+  "numeric_features": [
+    "SeniorCitizen",
+    "tenure",
+    "MonthlyCharges",
+    "TotalCharges"
+  ],
+  "categorical_features": [
+    "gender",
+    "Partner",
+    "Dependents",
+    "PhoneService",
+    "MultipleLines",
+    "InternetService",
+    "OnlineSecurity",
+    "OnlineBackup",
+    "DeviceProtection",
+    "TechSupport",
+    "StreamingTV",
+    "StreamingMovies",
+    "Contract",
+    "PaperlessBilling",
+    "PaymentMethod"
+  ]
+}
